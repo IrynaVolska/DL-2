@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello DL - 2 course new + I'm studying hard   
+=======
+Hello DL - 2 course new
+Java Script
+>>>>>>> 7a86b9a3ea8fb01268675389473d3f685ff168d1
